@@ -1,9 +1,9 @@
 # 📚 Agency Website
-Welcome to the Agency GitHub repository! This repository contains the source code for a modern and stylish Creative Agency website. 🎨✨
+Welcome to the Agency GitHub repository! This repository contains the source code for a modern and stylish Agency website. 🎨✨
 
 ## 🌐 Overview 
 
-This web application showcases the capabilities of a creative agency, offering services such as design, development, SEO, marketing, app development, and error fixing. The website features a responsive design and visually appealing layout.
+This web application showcases the capabilities of a agency, offering services such as design, development, SEO, marketing, app development, and error fixing. The website features a responsive design and visually appealing layout.
 
 ## 🌟 Key Features 
 
